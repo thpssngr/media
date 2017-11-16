@@ -41,7 +41,6 @@ main_page_head = '''
         }
         .movie-tile:hover {
             background-color: #EEE;
-            background-url(https://i.imgur.com/DK0W9Bz.gif);
             cursor: pointer;
         }
         .scale-media {
