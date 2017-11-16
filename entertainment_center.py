@@ -42,8 +42,6 @@ sherlock_gos = media.Movie("Sherlock Holmes - Game of Shadows",
 #                     "https://upload.wikimedia.org/wikipedia/en/a/a4/King_Arthur_LotS_poster.jpg",
 #                     "http://www.youtube.com/watch?v=4luDtkC3Oy0")
 
-#my_movies = [snatch, revolver, lockstock, rocknrolla, sherlock, sherlock_gos]
-#fresh_tomatoes.open_movies_page(media)
+movies = [snatch, revolver, lockstock, rocknrolla, sherlock, sherlock_gos]
+fresh_tomatoes.open_movies_page(movies)
 #print (media.Movie.VALID_RATINGS)
-
-print (media.Movie.__module__)
