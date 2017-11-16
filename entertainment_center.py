@@ -44,4 +44,3 @@ sherlock_gos = media.Movie("Sherlock Holmes - Game of Shadows",
 
 movies = [snatch, revolver, lockstock, rocknrolla, sherlock, sherlock_gos]
 fresh_tomatoes.open_movies_page(movies)
-#print (media.Movie.VALID_RATINGS)
